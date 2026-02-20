@@ -116,36 +116,27 @@ no solo de implementación técnica.
 
 <div align="center">
 
-<!--
-  NOTA SOBRE LAS STATS:
-  Si estas imágenes se ven rotas, el servicio público de github-readme-stats
-  está caído por rate limits (problema conocido desde 2024).
-  Solución permanente → despliega tu propia instancia gratis en Vercel:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Tarda 5 minutos y las stats siempre cargan.
--->
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AxlOlvera&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=AA8847&text_color=94a3b8&icon_color=1E4A8C&hide=prs,issues&rank_icon=github&include_all_commits=true"
-  alt="GitHub Stats"
-  height="165"
-/>
-&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlOlvera&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=AA8847&text_color=94a3b8&langs_count=6"
-  alt="Top Languages"
-  height="165"
-/>
-
-<br><br>
-
 <img
   src="https://github-readme-streak-stats-eight.vercel.app?user=AxlOlvera&theme=github-dark&hide_border=true&background=0D1B2A&ring=AA8847&fire=1E4A8C&currStreakLabel=AA8847&sideLabels=94a3b8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=475569"
   alt="GitHub Streak"
-  height="165"
 />
 
 </div>
+
+<br>
+
+## 🧠 Dominio Técnico
+
+| Tecnología | Nivel | Uso principal |
+|---|---|---|
+| ☕ **Java** | `██████████` Avanzado | Backend, lógica de negocio, OOP |
+| 🟨 **JavaScript** | `████████░░` Avanzado | Frontend, validaciones, módulos ES6 |
+| 🌱 **Spring Boot** | `███████░░░` Intermedio | APIs RESTful, arquitectura backend |
+| ⚛️ **React** | `██████░░░░` Intermedio | Componentes, estado, SPA |
+| 🐬 **MySQL** | `███████░░░` Intermedio | Modelado relacional, queries, joins |
+| 🎨 **HTML / CSS** | `█████████░` Avanzado | Semántico, BEM, responsive, variables CSS |
+| 🅱️ **Bootstrap** | `████████░░` Avanzado | Grid, utilidades, componentes |
+| 🐙 **Git / GitHub** | `████████░░` Avanzado | Versionado, ramas, colaboración |
 
 <br>
 

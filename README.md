@@ -103,12 +103,6 @@ no solo de implementación técnica.
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-[![Ixel E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=AxlOlvera&repo=ixel&theme=github_dark&hide_border=true&bg_color=0D1B2A&title_color=AA8847&text_color=94a3b8&icon_color=1E4A8C)](https://github.com/AxlOlvera/ixel)
-
-</div>
-
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | **[Ixel E-commerce](https://github.com/AxlOlvera/ixel)** | E-commerce full stack para tienda artesanal real. Sprint planning, desarrollo y documentación técnica formal para cliente. | Java · MySQL · JS · Bootstrap |

@@ -128,7 +128,7 @@ no solo de implementación técnica.
 ## 🧠 Dominio Técnico
 
 | Tecnología | Uso principal |
-|---|---|---|
+|---|---|
 | ☕ **Java** | Backend, lógica de negocio, OOP |
 | 🟨 **JavaScript** | Frontend, validaciones, módulos ES6 |
 | 🌱 **Spring Boot** | APIs RESTful, arquitectura backend |

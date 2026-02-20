@@ -129,14 +129,14 @@ no solo de implementación técnica.
 
 | Tecnología | Nivel | Uso principal |
 |---|---|---|
-| ☕ **Java** | `██████████` Avanzado | Backend, lógica de negocio, OOP |
-| 🟨 **JavaScript** | `████████░░` Avanzado | Frontend, validaciones, módulos ES6 |
-| 🌱 **Spring Boot** | `███████░░░` Intermedio | APIs RESTful, arquitectura backend |
-| ⚛️ **React** | `██████░░░░` Intermedio | Componentes, estado, SPA |
-| 🐬 **MySQL** | `███████░░░` Intermedio | Modelado relacional, queries, joins |
-| 🎨 **HTML / CSS** | `█████████░` Avanzado | Semántico, BEM, responsive, variables CSS |
-| 🅱️ **Bootstrap** | `████████░░` Avanzado | Grid, utilidades, componentes |
-| 🐙 **Git / GitHub** | `████████░░` Avanzado | Versionado, ramas, colaboración |
+| ☕ **Java** | Backend, lógica de negocio, OOP |
+| 🟨 **JavaScript** | Frontend, validaciones, módulos ES6 |
+| 🌱 **Spring Boot** | APIs RESTful, arquitectura backend |
+| ⚛️ **React** | Componentes, estado, SPA |
+| 🐬 **MySQL** | Modelado relacional, queries, joins |
+| 🎨 **HTML / CSS** | Semántico, BEM, responsive, variables CSS |
+| 🅱️ **Bootstrap** | Grid, utilidades, componentes |
+| 🐙 **Git / GitHub** | Versionado, ramas, colaboración |
 
 <br>
 

@@ -108,7 +108,7 @@ no solo de implementación técnica.
 | **[Ixel E-commerce](https://github.com/AxlOlvera/ixel)** | E-commerce full stack para tienda artesanal real. Sprint planning, desarrollo y documentación técnica formal para cliente. | Java · MySQL · JS · Bootstrap |
 | **[Hackatón E-commerce](https://github.com/AxlOlvera)** | Aplicación web con carrito, validaciones JS y Local Storage. Entrega funcional bajo presión de tiempo. | JavaScript · HTML5 · CSS3 |
 | **[Agenda Java](https://github.com/AxlOlvera)** | Gestión de contactos en consola. Estructuras de datos y OOP. | Java · OOP |
-| **[Portafolio](https://axlolvera.github.io)** | Portafolio personal con sistema bilingüe ES/EN, anti-spam de 4 capas y arquitectura JS modular. | JS · CSS · EmailJS |
+| **[Portafolio](https://axlolvera.github.io/Portfolio/)** | Portafolio personal con sistema bilingüe ES/EN, anti-spam de 4 capas y arquitectura JS modular. | JS · CSS · EmailJS |
 
 <br>
 
